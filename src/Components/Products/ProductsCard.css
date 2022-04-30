@@ -1,0 +1,37 @@
+.card-img{
+    height: 300px;
+    margin: 0 auto;
+    transition: .3s;
+}
+
+.card-img:hover{
+    transform: scale(1.1);
+}
+
+/* .card{
+    height: 500px;
+    width: 350px;
+} */
+
+.main-card{
+    overflow: hidden;
+    width: 350px;
+}
+
+.main-card img{
+    width: 250px;
+    margin-top: 20px;
+}
+
+.card-title{
+    height: 100px;
+    overflow: hidden;
+    color: #777;
+}
+
+.price{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}

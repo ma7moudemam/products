@@ -1,0 +1,10 @@
+
+    .details-img-container{
+        display: flex;
+    }
+
+    .details-img{
+        height: 300px;
+        max-width: 250px;
+        margin: 0 auto;
+    }
